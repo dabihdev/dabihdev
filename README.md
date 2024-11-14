@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! 👋
 
 <!--
 **dabihdev/dabihdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there, I'm a software/firmware developer and a a data analyst. I mainly use this Github profile as a portfolio of my open source projects. Bigger projects that I do for work are not showcased here.
