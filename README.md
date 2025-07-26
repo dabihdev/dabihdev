@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm a software/firmware developer and a a data analyst. I mainly use this Github profile as a portfolio of my open source projects. Bigger projects that I do for work are not showcased here.
+Ciao, sono uno sviluppatore e un'insegnante di programmazione e lavoro come libero professionista. Puoi scoprire di più su di me e i miei servizi [qui](https://dabihdev.github.io/).
+
+In questo account ci sono solo progetti open source. Progetti privati che seguo per lavoro non vengono mostrati qui.
