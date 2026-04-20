@@ -1,4 +1,4 @@
-## Hello world! 👋
+## Hello World! 👋
 
 <!--
 **dabihdev/dabihdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ciao, sono uno sviluppatore e un'insegnante di programmazione e lavoro come libero professionista. Puoi scoprire di più su di me e i miei servizi [qui](https://dabihdev.github.io/).
+My name's Dabih, I'm a Python and gamedev tutor and a freelance developer from Italy!
 
-In questo account ci sono solo progetti open source. Progetti privati che seguo per lavoro non vengono mostrati qui.
+# ✨ABOUT ME IN 30 secs✨
+- 👨‍🏫 Python tutor on Preply.com
+- 🎮 Indie game dev and godot engine tutor
+- 👨‍💻 Firmware developer for ESP32 boards
+- 🌦️ Background in atmospheric and climate physics
+
+# 📫 CONTACT ME 📫
+- 🌐 My Personal Web Page:    https://dabihdev.github.io/
+- 👩‍🎓 My Preply Tutor Profile: https://preply.com/it/tutor/4532845
