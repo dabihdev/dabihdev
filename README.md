@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 My name's Dabih, I'm a Python and gamedev tutor and a freelance developer from Italy!
 
-# ✨ABOUT ME IN 30 secs✨
+### ✨ABOUT ME IN 30 secs✨
 - 👨‍🏫 Python tutor on Preply.com
 - 🎮 Indie game dev and godot engine tutor
 - 👨‍💻 Firmware developer for ESP32 boards
 - 🌦️ Background in atmospheric and climate physics
 
-# 📫 CONTACT ME 📫
+### 📫 CONTACT ME 📫
 - 🌐 My Personal Web Page:    https://dabihdev.github.io/
 - 👩‍🎓 My Preply Tutor Profile: https://preply.com/it/tutor/4532845
