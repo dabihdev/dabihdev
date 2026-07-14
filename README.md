@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 My name's Dabih, I'm a Python and gamedev tutor and a freelance developer from Italy!
 
-### ✨ABOUT ME IN 30 secs✨
+### ABOUT ME
 - 👨‍🏫 Python tutor on Preply.com
-- 🎮 Indie game dev and godot engine tutor
+  ✨ one of the top 10% Python tutors in the platform
+  ✨ #1 of Italian-speaking tutors
+  ✨ over 1100 lessons
 - 👨‍💻 Firmware developer for ESP32 boards
-- 🌦️ Background in atmospheric and climate physics
+  ✨Frameworks: Arduino, PlatformIO, LVGL
+- 🎮 Game Dev Tutor
+- 🌦️ Academic Background: Atmospheric and Climate Physics
+  ✨ Climate, Weather Data Analysis and Visualization with Python (pandas, matplotlib, seaborn, xarray)
+  ✨ Geophysics, Thermo- and Fluidodynamics
+  ✨ Analysis, Linear Algebra and Physics
 
 ### 📫 CONTACT ME 📫
 - 🌐 My Personal Web Page:    https://dabihdev.github.io/
