@@ -19,16 +19,16 @@ My name's Dabih, I'm a Python and gamedev tutor and a freelance developer from I
 
 ### ABOUT ME
 - 👨‍🏫 Python tutor on Preply.com
-  ✨ one of the top 10% Python tutors in the platform
-  ✨ #1 of Italian-speaking tutors
-  ✨ over 1100 lessons
+  - ✨ one of the top 10% Python tutors in the platform
+  - ✨ #1 of Italian-speaking tutors
+  - ✨ over 1100 lessons
 - 👨‍💻 Firmware developer for ESP32 boards
-  ✨Frameworks: Arduino, PlatformIO, LVGL
+  - ✨Frameworks: Arduino, PlatformIO, LVGL
 - 🎮 Game Dev Tutor
 - 🌦️ Academic Background: Atmospheric and Climate Physics
-  ✨ Climate, Weather Data Analysis and Visualization with Python (pandas, matplotlib, seaborn, xarray)
-  ✨ Geophysics, Thermo- and Fluidodynamics
-  ✨ Analysis, Linear Algebra and Physics
+  - ✨ Climate, Weather Data Analysis and Visualization with Python (pandas, matplotlib, seaborn, xarray)
+  - ✨ Geophysics, Thermo- and Fluidodynamics
+  - ✨ Analysis, Linear Algebra and Physics
 
 ### 📫 CONTACT ME 📫
 - 🌐 My Personal Web Page:    https://dabihdev.github.io/
